@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://kingsblog/github.io/"/>
   <updated>2018-03-19T06:31:22.801Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://kingsblog/github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Fisrt note</title>
-    <link href="http://yoursite.com/2018/03/19/Fisrt-note/"/>
-    <id>http://yoursite.com/2018/03/19/Fisrt-note/</id>
+    <link href="http://kingsblog/github.io/2018/03/19/Fisrt-note/"/>
+    <id>http://kingsblog/github.io/2018/03/19/Fisrt-note/</id>
     <published>2018-03-19T06:31:22.000Z</published>
     <updated>2018-03-19T06:31:22.801Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/03/18/hello-world/"/>
-    <id>http://yoursite.com/2018/03/18/hello-world/</id>
+    <link href="http://kingsblog/github.io/2018/03/18/hello-world/"/>
+    <id>http://kingsblog/github.io/2018/03/18/hello-world/</id>
     <published>2018-03-18T12:31:22.919Z</published>
     <updated>2018-03-18T12:31:22.919Z</updated>
     
